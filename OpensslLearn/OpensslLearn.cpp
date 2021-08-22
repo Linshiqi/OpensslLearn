@@ -4,9 +4,11 @@
 #include <iostream>
 #include <openssl/crypto.h>
 
-#include "OpensslStackDemo.h"
+//#include "OpensslStackDemo.h"
+#include "OpensslHash.h"
 
 int main()
 {
-	testOpensslStack();
+	//testOpensslStack();
+	testOpensslHash();
 }

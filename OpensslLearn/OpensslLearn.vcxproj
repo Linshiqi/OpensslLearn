@@ -148,6 +148,7 @@
     <ClCompile Include="OpensslLearn.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="OpensslHash.h" />
     <ClInclude Include="OpensslStackDemo.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
